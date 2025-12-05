@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "K2_Tasiyici",
+			"path": "K2_Tasiyici/K2_Tasiyici"
+		},
+		{
+			"name": "K2_Gorev_Yuku",
+			"path": "K2_Gorev_Yuku/K2_Gorev_Yuku"
+		},
+		{
+			"name": "K2_Aktarim_Uydusu",
+			"path": "K2_Aktarim_Uydusu/K2_Aktarim_Uydusu"
+		}
+	],
+	"settings": {}
+}
